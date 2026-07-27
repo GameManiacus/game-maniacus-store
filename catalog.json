@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "1.0.0",
+  "games": [
+    {
+      "id": "my-native-game",
+      "title": "My Native Game",
+      "version": "1.0.0",
+      "type": "native",
+      "platform": "Linux",
+      "description": "A short description shown in the Game Store and launcher.",
+      "category": "ARCADE",
+      "players": 1,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "icon": {
+        "url": "https://github.com/USERNAME/REPOSITORY/releases/download/my-native-game-v1.0.0/my-native-game.png",
+        "sha256": "PUT_THE_ICON_FILE_64_CHARACTER_SHA256_HERE"
+      },
+      "artifact": {
+        "url": "https://github.com/USERNAME/REPOSITORY/releases/download/my-native-game-v1.0.0/my-native-game-linux-x86_64.tar.gz",
+        "sha256": "PUT_THE_GAME_FILE_64_CHARACTER_SHA256_HERE",
+        "format": "tar.gz",
+        "executable": "my-native-game"
+      }
+    },
+    {
+      "id": "my-legal-retro-game",
+      "title": "My Legal Retro Game",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "NES",
+      "description": "A homebrew NES game that may legally be redistributed.",
+      "category": "RETRO",
+      "players": 1,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "mesen_libretro.so",
+      "icon": {
+        "url": "https://github.com/USERNAME/REPOSITORY/releases/download/my-legal-retro-game-v1.0.0/my-legal-retro-game.png",
+        "sha256": "PUT_THE_ICON_FILE_64_CHARACTER_SHA256_HERE"
+      },
+      "artifact": {
+        "url": "https://github.com/USERNAME/REPOSITORY/releases/download/my-legal-retro-game-v1.0.0/my-legal-retro-game.nes",
+        "sha256": "PUT_THE_ROM_FILE_64_CHARACTER_SHA256_HERE",
+        "format": "file",
+        "executable": ""
+      }
+    }
+  ]
+}
