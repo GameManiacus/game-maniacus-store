@@ -3,49 +3,49 @@
   "catalogVersion": "1.0.0",
   "games": [
     {
-      "id": "my-native-game",
-      "title": "My Native Game",
+      "id": "snake-arcade",
+      "title": "SNAKE ARCADE",
       "version": "1.0.0",
-      "type": "native",
+      "type": "sdl2",
       "platform": "Linux",
-      "description": "A short description shown in the Game Store and launcher.",
+      "description": "Food eating snaking game from our childhood",
       "category": "ARCADE",
       "players": 1,
       "priceType": "free",
       "priceLabel": "FREE",
       "purchaseUrl": "",
       "icon": {
-        "url": "https://github.com/USERNAME/REPOSITORY/releases/download/my-native-game-v1.0.0/my-native-game.png",
-        "sha256": "PUT_THE_ICON_FILE_64_CHARACTER_SHA256_HERE"
+        "url": "https://github.com/GameManiacus/game-maniacus-store/blob/main/snake_arcade_icon.jpg",
+        "sha256": "be19c6131f8ac82dcbf4ba9e4ca765b01bcfea07676f3535a337c351b8572668"
       },
       "artifact": {
-        "url": "https://github.com/USERNAME/REPOSITORY/releases/download/my-native-game-v1.0.0/my-native-game-linux-x86_64.tar.gz",
-        "sha256": "PUT_THE_GAME_FILE_64_CHARACTER_SHA256_HERE",
+        "url": "https://github.com/GameManiacus/game-maniacus-store/blob/main/snake-arcade-1.0.0-linux-x86_64.tar.gz",
+        "sha256": "9055fe51b546dde9a2297b4c63af8e97d4a42510568e741d6bfcb9bb3017403f",
         "format": "tar.gz",
-        "executable": "my-native-game"
+        "executable": "snake_arcade"
       }
     },
     {
-      "id": "my-legal-retro-game",
-      "title": "My Legal Retro Game",
+      "id": "Contra",
+      "title": "Contra",
       "version": "1.0.0",
       "type": "retroarch",
-      "platform": "NES",
-      "description": "A homebrew NES game that may legally be redistributed.",
+      "platform": "MAME",
+      "description": "Our childhood favourite game",
       "category": "RETRO",
-      "players": 1,
+      "players": 2,
       "priceType": "free",
       "priceLabel": "FREE",
       "purchaseUrl": "",
-      "core": "mesen_libretro.so",
+      "core": "fbneo_libretro.so",
       "icon": {
-        "url": "https://github.com/USERNAME/REPOSITORY/releases/download/my-legal-retro-game-v1.0.0/my-legal-retro-game.png",
-        "sha256": "PUT_THE_ICON_FILE_64_CHARACTER_SHA256_HERE"
+        "url": "https://github.com/GameManiacus/game-maniacus-store/blob/main/contra_icon.jpg",
+        "sha256": "79c4a524283e9e89bdbba50abe90a18983461a33413c35a052e08e854caa5177"
       },
       "artifact": {
-        "url": "https://github.com/USERNAME/REPOSITORY/releases/download/my-legal-retro-game-v1.0.0/my-legal-retro-game.nes",
-        "sha256": "PUT_THE_ROM_FILE_64_CHARACTER_SHA256_HERE",
-        "format": "file",
+        "url": "https://github.com/GameManiacus/game-maniacus-store/blob/main/contra.zip",
+        "sha256": "b2421cdff58668a995100fb3d6af81b4aa64f676ce2584eea7f09dde974c09e8",
+        "format": "zip",
         "executable": ""
       }
     }
