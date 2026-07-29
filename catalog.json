@@ -21,7 +21,7 @@
       "artifact": {
         "url": "",
         "sha256": "",
-        "format": "file",
+        "format": "tar.gz",
         "executable": ""
       }
     },
