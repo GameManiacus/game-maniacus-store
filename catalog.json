@@ -29,7 +29,7 @@
       "id": "mad-man",
       "title": "Mad Man",
       "version": "1.0.0",
-      "type": "gadot",
+      "type": "godot",
       "platform": "Linux",
       "description": "Pac Man like game",
       "category": "ARCADE",
