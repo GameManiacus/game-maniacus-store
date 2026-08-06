@@ -27,6 +27,59 @@
       }
     },
     {
+      "id": "metal-slug-3",
+      "title": "METAL SLUG 3",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "Experience explosive run-and-gun action with powerful weapons and vehicles.",
+      "category": "RETRO",
+      "players": 2,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "fbneo_libretro.so",
+      "bios": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fneogeo.zip?alt=media&token=1486a590-3af1-4b9d-8c7b-87e7190ee28e",
+        "sha256": "e86ab6faaaa490175d3f7edfd56f258ce26f24e625ba3d99cf0eb0f12e78f2c0",
+        "filename": "neogeo.zip"
+      },
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/metal_slug_3_icon.jpg",
+        "sha256": "eb533f08a4f19863da3132545cf49489e22fa38ea8e04a5d036d7f0a57943c9a"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fmslug3.zip?alt=media&token=e141bdb2-b768-498c-b6c5-9148b27266d2",
+        "sha256": "0237697bb1f1aa54f0dbc8965e5302e66753592c93fb535bb4fa860fed778a21",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
+      "id": "metal-slug",
+      "title": "METAL SLUG",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "Experience explosive run-and-gun action with powerful weapons and vehicles",
+      "category": "RETRO",
+      "players": 2,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "fbneo_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/metal_slug_icon.jpg",
+        "sha256": "1400ae3d1757c9cb78742aecdb1566b6d8d1f1b873f26daf4945afdd9045b929"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fmslug.zip?alt=media&token=42fe8b04-2999-4c8c-8627-146d6831f41d",
+        "sha256": "97a4ff61bd30bab8dbb09e733987c89c454df3d1d76fd468acdde3d6c1cb282e ",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
       "id": "contra-arcade",
       "title": "CONTRA",
       "version": "1.0.0",
