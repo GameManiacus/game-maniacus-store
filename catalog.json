@@ -3,30 +3,6 @@
   "catalogVersion": "1.0.0",
   "games": [
     {
-      "id": "blazing-star",
-      "title": "BLAZING STAR",
-      "version": "1.0.0",
-      "type": "retroarch",
-      "platform": "ARCADE",
-      "description": "Blast through waves of enemies in a fast-paced side-scrolling space shooter",
-      "category": "RETRO",
-      "players": 2,
-      "priceType": "free",
-      "priceLabel": "FREE",
-      "purchaseUrl": "",
-      "core": "fbneo_libretro.so",
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/blazing_star_icon.jpg",
-        "sha256": "b6871ac93bb13914c95c4369359758efd3e25635e979be483a2d3d9b1ca228e1"
-      },
-      "artifact": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fblazstar.zip?alt=media&token=f581e704-59fb-44f2-8205-6d1ce93ace15",
-        "sha256": "933c2fc653a4cc7bfea15f8811492a00be7c15c50ef40bd5377092a0524f13e5",
-        "format": "file",
-        "executable": ""
-      }
-    },
-    {
       "id": "eightman",
       "title": "EIGHTMAN",
       "version": "1.0.0",
@@ -51,78 +27,6 @@
       }
     },
     {
-      "id": "liquid-kids",
-      "title": "LIQUID KIDS",
-      "version": "1.0.0",
-      "type": "retroarch",
-      "platform": "ARCADE",
-      "description": "Embark on a colorful platform adventure using water to defeat enemies",
-      "category": "RETRO",
-      "players": 1,
-      "priceType": "free",
-      "priceLabel": "FREE",
-      "purchaseUrl": "",
-      "core": "fbneo_libretro.so",
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/liquid_kid_icon.jpg",
-        "sha256": "1ff662141590eb3b3b64eb24343793bd35f89899993e77eb4271654263441fec"
-      },
-      "artifact": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fliquidku.zip?alt=media&token=ceb34fc7-0a51-4092-8843-9a003ca14803",
-        "sha256": "3fe9c94f030fe5a7dd0a83b2b732d88f641ba7a29758a351898550bc297a42a0",
-        "format": "file",
-        "executable": ""
-      }
-    },
-    {
-      "id": "metal-slug",
-      "title": "METAL SLUG",
-      "version": "1.0.0",
-      "type": "retroarch",
-      "platform": "ARCADE",
-      "description": "Experience explosive run-and-gun action with powerful weapons and vehicles",
-      "category": "RETRO",
-      "players": 2,
-      "priceType": "free",
-      "priceLabel": "FREE",
-      "purchaseUrl": "",
-      "core": "fbneo_libretro.so",
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/metal_slug_icon.jpg",
-        "sha256": "1400ae3d1757c9cb78742aecdb1566b6d8d1f1b873f26daf4945afdd9045b929"
-      },
-      "artifact": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fmslug.zip?alt=media&token=b0ca885e-af2e-4c2d-ae39-ede3515f9697",
-        "sha256": "97a4ff61bd30bab8dbb09e733987c89c454df3d1d76fd468acdde3d6c1cb282e",
-        "format": "file",
-        "executable": ""
-      }
-    },
-    {
-      "id": "metal-slug-3",
-      "title": "METAL SLUG 3",
-      "version": "1.0.0",
-      "type": "retroarch",
-      "platform": "ARCADE",
-      "description": "Take on intense missions with branching paths, unique vehicles, and epic boss battles",
-      "category": "RETRO",
-      "players": 2,
-      "priceType": "free",
-      "priceLabel": "FREE",
-      "purchaseUrl": "",
-      "core": "fbneo_libretro.so",
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/metal_slug_3_icon.jpg",
-        "sha256": "eb533f08a4f19863da3132545cf49489e22fa38ea8e04a5d036d7f0a57943c9a"
-      },
-      "artifact": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fmslug3h.zip?alt=media&token=628f4483-50c7-456b-9b2e-b90f7ca8791c",
-        "sha256": "f1c9fa0bdf982bfa4f1f34c20b50464f7ab842fda8cf7ca6403531aed2c3dee2",
-        "format": "file",
-        "executable": ""
-      }
-    },
-    {
       "id": "contra-arcade",
       "title": "CONTRA",
       "version": "1.0.0",
@@ -142,30 +46,6 @@
       "artifact": {
         "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fcontra.zip?alt=media&token=3c332576-b741-40e8-a478-d89c32741cd9",
         "sha256": "b2421cdff58668a995100fb3d6af81b4aa64f676ce2584eea7f09dde974c09e8",
-        "format": "file",
-        "executable": ""
-      }
-    },
-    {
-      "id": "shienryu",
-      "title": "SHIENRYU",
-      "version": "1.0.0",
-      "type": "retroarch",
-      "platform": "ARCADE",
-      "description": "Dodge relentless bullets while destroying enemies in a classic vertical shooter",
-      "category": "RETRO",
-      "players": 2,
-      "priceType": "free",
-      "priceLabel": "FREE",
-      "purchaseUrl": "",
-      "core": "mame_libretro.so",
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/shienryu_icon.jpg",
-        "sha256": "4570b6bf0b148611c04c94a01b01aedaa564f0f657b9775bb03999f3a4fa4096"
-      },
-      "artifact": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fshienryu.zip?alt=media&token=5fb6c226-a921-4f97-aafe-b0565fd1dd22",
-        "sha256": "51fd9639fd59ca30ee3559041cef4b16f248de35e774ee70a69bebed2af6469a",
         "format": "file",
         "executable": ""
       }
