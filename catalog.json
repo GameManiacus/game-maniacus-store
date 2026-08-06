@@ -27,8 +27,8 @@
       }
     },
     {
-      "id": "eight-man",
-      "title": "EIGHT MAN",
+      "id": "eightman",
+      "title": "EIGHTMAN",
       "version": "1.0.0",
       "type": "retroarch",
       "platform": "ARCADE",
@@ -147,7 +147,7 @@
       }
     },
     {
-      "id": "Shienryu",
+      "id": "shienryu",
       "title": "SHIENRYU",
       "version": "1.0.0",
       "type": "retroarch",
