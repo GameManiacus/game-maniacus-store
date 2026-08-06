@@ -80,7 +80,7 @@
       "version": "1.0.0",
       "type": "retroarch",
       "platform": "ARCADE",
-      "description": "Experience explosive run-and-gun action with powerful weapons and vehicles.",
+      "description": "Experience explosive run-and-gun action with powerful weapons and vehicles",
       "category": "RETRO",
       "players": 2,
       "priceType": "free",
@@ -122,7 +122,7 @@
       },
       "artifact": {
         "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fmslug.zip?alt=media&token=42fe8b04-2999-4c8c-8627-146d6831f41d",
-        "sha256": "97a4ff61bd30bab8dbb09e733987c89c454df3d1d76fd468acdde3d6c1cb282e ",
+        "sha256": "97a4ff61bd30bab8dbb09e733987c89c454df3d1d76fd468acdde3d6c1cb282e",
         "format": "file",
         "executable": ""
       }
