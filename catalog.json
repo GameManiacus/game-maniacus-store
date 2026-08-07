@@ -27,30 +27,6 @@
       }
     },
     {
-      "id": "shienryu",
-      "title": "SHIENRYU",
-      "version": "1.0.0",
-      "type": "retroarch",
-      "platform": "ARCADE",
-      "description": "Dodge relentless bullets while destroying enemies in a classic vertical shooter",
-      "category": "RETRO",
-      "players": 2,
-      "priceType": "free",
-      "priceLabel": "FREE",
-      "purchaseUrl": "",
-      "core": "fbneo_libretro.so",
-      "icon": {
-        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/shienryu_icon.jpg",
-        "sha256": "4570b6bf0b148611c04c94a01b01aedaa564f0f657b9775bb03999f3a4fa4096"
-      },
-      "artifact": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fshienryu.zip?alt=media&token=b236f04e-f2b6-44ab-b0a1-94046bdcc2b8",
-        "sha256": "51fd9639fd59ca30ee3559041cef4b16f248de35e774ee70a69bebed2af6469a",
-        "format": "file",
-        "executable": ""
-      }
-    },
-    {
       "id": "liquid-kids",
       "title": "LIQUID KIDS",
       "version": "1.0.0",
