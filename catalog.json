@@ -27,6 +27,150 @@
       }
     },
     {
+      "id": "do-don-pacha",
+      "title": "Do Don Pacha",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "A fast-paced vertical shoot ’em up where players dodge intense bullet patterns and destroy waves of enemies and bosses",
+      "category": "RETRO",
+      "players": 2,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "fbneo_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/dodonpacha_icon.jpg",
+        "sha256": "d6bdccf110d1e8db83749484642fa2bab1d1703d5c35671b79df46f3b9dc4a9e"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fddonpacha.zip?alt=media&token=6ff404b1-f7ba-4f63-84bd-a79479f9462d",
+        "sha256": "d28522a9f010e11bd8fa5e321a0d3f243787648003f3f78fd234ba7bbcd40a84",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
+      "id": "do-don-pachi",
+      "title": "Do Don Pachi",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "A fast-paced vertical shoot ’em up where players dodge intense bullet patterns and destroy waves of enemies and bosses",
+      "category": "RETRO",
+      "players": 2,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "fbneo_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/dodonpachi_icon.jpg",
+        "sha256": "a4ec1da7e5d9cad9daeaec298650302ba9ccf109484ed866594dbac7210207b3"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fddonpachj.zip?alt=media&token=9c739fb2-34d2-4c16-977d-5891e0fcbf8c",
+        "sha256": "2eb671b27dc666491b9b16aeefddd88233f92c50120507c2707115e087d2b193",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
+      "id": "samurai-showdown",
+      "title": "Samurai Showdown",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "A classic samurai fighting game with intense sword battles and unique warriors",
+      "category": "RETRO",
+      "players": 2,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "fbneo_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/samurai_showdown_icon.jpg",
+        "sha256": "dfa9391173e1b9aa1defcf25be09c317a262e7ed7ab47d3722262a3b270d44ae"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Ffswords.zip?alt=media&token=430841ca-4822-4801-9085-942e8e311f1d",
+        "sha256": "c257fd874bb071c2887462df47b49d1be36b623f157c58930b0a3c1600497472",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
+      "id": "giga-wing",
+      "title": "Giga Wing",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "A fast-paced arcade shooter with intense battles, powerful weapons, and huge bosses.",
+      "category": "RETRO",
+      "players": 2,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "fbneo_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/gigawing_icon.jpg",
+        "sha256": "7076edd1d121fc912775a2a4edaa709a5c9a74076d82bcbe241d19be3810caaa"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fgigawing.zip?alt=media&token=b73cc23b-ae07-47d9-97fa-9180e9042412",
+        "sha256": "3cbdf5d868d803e0fa8962403f032b2a406485f25952fece03215ee6494a1e25",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
+      "id": "pac-man",
+      "title": "Pac Man",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "A classic maze game where Pac-Man collects dots while avoiding ghosts",
+      "category": "RETRO",
+      "players": 2,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "fbneo_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/pacman_icon.jpg",
+        "sha256": "1276c5ff6ff4b54327b9f202cf8a0aaffaa34b752a87a5d538889eee5cb6e742"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fmspacmanblt.zip?alt=media&token=ca725ada-b120-42d1-ba9c-0dd61e075641",
+        "sha256": "383f15f9e7953f5a2c6d665be4ec99500782df9016b6a96d42a5413d7d935b1d",
+        "format": "file",
+        "executable": ""
+      }
+    },
+      {
+      "id": "strike-1942-ii",
+      "title": "Strike 1942 II",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "A classic vertical shooter with intense aerial battles and powerful enemy aircraft",
+      "category": "RETRO",
+      "players": 2,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "fbneo_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/strike_1942_II_icon.jpg",
+        "sha256": "de38529e1eb4563035730a1c3dea213c31bfc63efae439e6d2c68b351157769d"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Fs1945ii.zip?alt=media&token=1778b0c0-79a2-47e1-865c-dff975c97439",
+        "sha256": "d3700524b1cedf1cb5de93b7e56a2e7d6459fe894ec63ccc4f2a3d8c4261a581",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
       "id": "liquid-kids",
       "title": "LIQUID KIDS",
       "version": "1.0.0",
