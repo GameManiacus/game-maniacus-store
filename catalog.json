@@ -26,6 +26,30 @@
         "executable": ""
       }
     },
+     {
+      "id": "daytona-usa",
+      "title": "Daytona USA",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "DREAMCAST",
+      "description": "A fast-paced platform game where Sonic races through levels, collects rings, and defeats enemies",
+      "category": "RACING",
+      "players": 1,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "flycast_libretro.so",
+      "icon": {
+        "url": "",
+        "sha256": ""
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2FDaytona%20USA%202001%20(Europe)%20(En%2CFr%2CDe%2CEs).chd?alt=media&token=090e342e-97bc-4241-94a9-79bd27c48416",
+        "sha256": "20ccebdfa040e738a0f7ea34b73445a2a42d4bbcbdd86a95d0d7967428c41f22",
+        "format": "file",
+        "executable": ""
+      }
+    },
     {
       "id": "sonic-the-hedgehog",
       "title": "Sonic The Hedgehog",
