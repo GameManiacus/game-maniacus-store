@@ -99,6 +99,78 @@
       }
     },
     {
+      "id": "f1-dream",
+      "title": "F1 Dream",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "ARCADE",
+      "description": "A fast-paced Formula racing game where you compete on challenging tracks to become the champion",
+      "category": "RACING",
+      "players": 1,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "mame2003_plus_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/f1_dream_icon.jpg",
+        "sha256": "432c3cbf73419c327f227821f780e4b3dd7ba40d106e38905372636807ad39f4"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Ff1dream.zip?alt=media&token=b8c7f2b6-3a6d-4d63-9e2f-f9eab6b01f75",
+        "sha256": "b721de6f046a8f03be1433d957635d1daa2eed2bb62c3c46941508e5e06dbfa3",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
+      "id": "classic-donkey-kong",
+      "title": "Classic Donkey Kong",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "GBA",
+      "description": "Climb platforms, dodge barrels, and rescue the captive from Donkey Kong",
+      "category": "PLATFORM",
+      "players": 1,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "mgba_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/classic_donkey_kong_icon.jpg",
+        "sha256": "493de47c8e47ea9d7625f0c581c55e6bc4fb144e60decfa0db51109cc0a4f220"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2FClassic%20NES%20Series_%20Donkey%20Kong.zip?alt=media&token=3de4f4e6-9fc2-4887-afc8-2603a5d786e8",
+        "sha256": "ba3af1a3721ac28697a85cb7bb94c8bf1e8c511f1c67887e786bdf1a68c76600",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
+      "id": "donkey-kong-country",
+      "title": "Donkey Kong Country",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "SNES",
+      "description": "Run, jump, and battle enemies with Donkey Kong and Diddy Kong across exciting jungle levels",
+      "category": "PLATFORM",
+      "players": 1,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "snes9x_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/donkey_kong_country_icon.jpg",
+        "sha256": "3445ba2c5a57a008f900988bfeed43cb8347f10ed65e00a84882110f3d16380d"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2FDonkey_Kong_Country%5Bromsretro.com%5D.zip?alt=media&token=af39132a-cfe2-453a-873e-064dff5309cc",
+        "sha256": "17e240668bee69ab258d31d591dc6f3eddbafe36dabbc834b37bb328c4706367",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
       "id": "galaxy-force-2",
       "title": "Galaxy Force 2",
       "version": "1.0.0",
