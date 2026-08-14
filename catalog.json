@@ -26,30 +26,6 @@
         "executable": ""
       }
     },
-     {
-      "id": "crash-bandicoot",
-      "title": "Crash Bandicoot",
-      "version": "1.0.0",
-      "type": "retroarch",
-      "platform": "PLAYSTATION",
-      "description": "A fast-paced platform game where Sonic races through levels, collects rings, and defeats enemies",
-      "category": "RACING",
-      "players": 1,
-      "priceType": "free",
-      "priceLabel": "FREE",
-      "purchaseUrl": "",
-      "core": "pcsx_rearmed_libretro.so",
-      "icon": {
-        "url": "",
-        "sha256": ""
-      },
-      "artifact": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2FCrash%20Bandicoot%20(Europe)%20(EDC).zip?alt=media&token=81a61aa0-2114-49f4-abce-2b144392dbca",
-        "sha256": "7a9122ed3b5c1e7a94a079449aebfafd9ba6d54b675519010fcbf1465ef39980",
-        "format": "file",
-        "executable": ""
-      }
-    },
     {
       "id": "sonic-the-hedgehog",
       "title": "Sonic The Hedgehog",
