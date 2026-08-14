@@ -44,8 +44,8 @@
         "sha256": "d177b39a0b7d2479e6ad45ea124fc852f5e2ca8ad4bbef5079d6cc84833fdba0"
       },
       "artifact": {
-        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2FSuper%20Mario%20Bros.%20(World).zip?alt=media&token=fa6fa192-64e7-4bf0-872e-3e2d318594ed",
-        "sha256": "6c25eaca6b1fba176df040b78be98ae9bb2caf43ae3e1e61583f02b6dfa8c9b1",
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2FSuper%20Mario%20Bros.%20(Europe).zip?alt=media&token=6d7715b7-7e85-4fff-81df-6d58034b9d0c",
+        "sha256": "cb878f6e50b17cafca9fa5c200d7028a06e7592a6689f40018d1fb9bc6f0886e",
         "format": "file",
         "executable": ""
       }
