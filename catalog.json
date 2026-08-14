@@ -257,7 +257,7 @@
       "core": "fbneo_libretro.so",
       "icon": {
         "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/samurai_showdown_icon.jpg",
-        "sha256": "dfa9391173e1b9aa1defcf25be09c317a262e7ed7ab47d3722262a3b270d44ae"
+        "sha256": "7085a0b9ef675f7b0bf4a46057a7b790fb2e5cd7c7c22168861e3dcf1fd693ea"
       },
       "artifact": {
         "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2Ffswords.zip?alt=media&token=430841ca-4822-4801-9085-942e8e311f1d",
