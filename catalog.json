@@ -38,7 +38,7 @@
       "priceType": "free",
       "priceLabel": "FREE",
       "purchaseUrl": "",
-      "core": "mesen_libretro.so",
+      "core": "fceumm_libretro.so",
       "icon": {
         "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/super_mario_bros_icon.jpg",
         "sha256": "d177b39a0b7d2479e6ad45ea124fc852f5e2ca8ad4bbef5079d6cc84833fdba0"
