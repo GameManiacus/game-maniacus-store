@@ -4,7 +4,7 @@
   "games": [
     {
       "id": "eightman",
-      "title": "EIGHTMAN",
+      "title": "Eightman",
       "version": "1.0.0",
       "type": "retroarch",
       "platform": "ARCADE",
@@ -50,8 +50,32 @@
         "executable": ""
       }
     },
+     {
+      "id": "sonic-the-hedgehog",
+      "title": "Sonic The Hedgehog",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "GENESIS",
+      "description": "A fast-paced platform game where Sonic races through levels, collects rings, and defeats enemies",
+      "category": "PLATFORM",
+      "players": 1,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "genesis_plus_gx_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/sonic_the_hedgehog_icon.jpg",
+        "sha256": "96213dc1db61381d081eff53a10d6e13153b58cb34d491825b917e51bbfa528e"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2FSonic%20the%20Hedgehog%20(Japan).zip?alt=media&token=0f9a8797-987a-4477-8ec0-63663e7d7b00",
+        "sha256": "ac51244b5b158d0573da2f56db8fc159a616830766d702da078f48fda966ed5a",
+        "format": "file",
+        "executable": ""
+      }
+    },
     {
-      "id": "mario-kart-64-europe",
+      "id": "mario-kart-64",
       "title": "Mario Kart 64",
       "version": "1.0.0",
       "type": "retroarch",
