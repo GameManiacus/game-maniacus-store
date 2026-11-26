@@ -315,6 +315,30 @@
       }
     },
     {
+      "id": "super-mario-bros",
+      "title": "SUPER MARIO BROS",
+      "version": "1.0.0",
+      "type": "retroarch",
+      "platform": "SNES",
+      "description": "A classic platform video game series created by Nintendo and Shigeru Miyamoto",
+      "category": "RETRO",
+      "players": 1,
+      "priceType": "free",
+      "priceLabel": "FREE",
+      "purchaseUrl": "",
+      "core": "snes9x_libretro.so",
+      "icon": {
+        "url": "https://raw.githubusercontent.com/GameManiacus/game-maniacus-store/main/super_mario_icon.jpg",
+        "sha256": "2a6556fc29f06a4bc1a9faf460cedc45d6b87d7d2566766c4acb4e046120dcbc"
+      },
+      "artifact": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/arcade-game-store.firebasestorage.app/o/arcade-games%2FSuper%20Mario%20Bros.%20SNES.zip?alt=media&token=97a8f471-5fd0-4f5e-b347-074f37608583",
+        "sha256": "a573a2fb308dee9add5027cfc5db8d5680b63c93e29e8412520986db912cdcd9",
+        "format": "file",
+        "executable": ""
+      }
+    },
+    {
       "id": "metal-slug-3",
       "title": "METAL SLUG 3",
       "version": "1.0.0",
@@ -366,7 +390,7 @@
         "format": "file",
         "executable": ""
       }
-    },
+    },    
     {
       "id": "contra-arcade",
       "title": "CONTRA",
